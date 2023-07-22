@@ -51,7 +51,6 @@ public class ToolsMenu2 extends ProtegeOWLAction {
         
         // Example: Add a label to the window
         // Create the root node
-    
 		
 		// Create the root node for the JTree
         DefaultMutableTreeNode root = new DefaultMutableTreeNode("Axioms");
