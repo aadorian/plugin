@@ -62,7 +62,7 @@ public class ToolsMenu1 extends ProtegeOWLAction {
             // Load the OWL file from the local file system
             File file = new File(filePath);
             // load the file to the actual ontology 
-
+			
             // Do whatever you need to do with the loaded ontology
             System.out.println("Loaded ontology: " + ontology.getOntologyID().getOntologyIRI());
             
